@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm Wendy Deng, and I'm passionate about exploring the intersection of biology, chemistry, statistic, and data science.
-- 📫 How to reach me: [Email](haoyund@sas.upenn.edu) or [LinkedIn](https://www.linkedin.com/in/wendydengg/)
+- 📫 How to reach me: Email or [LinkedIn](https://www.linkedin.com/in/wendydengg/)
