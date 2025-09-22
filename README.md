@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Wendy Deng, and I study data science at Penn.
+I'm Wendy Deng, and I study computer science and data science at Penn.
 - 📫 How to reach me: Email or [LinkedIn](https://www.linkedin.com/in/wendydengg/)
